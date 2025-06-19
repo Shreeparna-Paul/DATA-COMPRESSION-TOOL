@@ -45,3 +45,6 @@ dev.to
 
 In sum, this repository is a compact, dependency‑free, and educational implementation of RLE in plain C. It is ideal for those learning compression algorithms, mastering file I/O, or building CLI utilities in C. Advanced users can safely build upon it—extending its format, adding performance optimizations, or integrating it into larger pipelines. Contributions and forks are encouraged: explore the foundations of data compression here, extend it, and share your enhancements!**
 
+*OUTPUT PICTURE*:
+
+![Image](https://github.com/user-attachments/assets/ee6e79e1-65c1-41e1-a3a2-479a63e3e9d3)
